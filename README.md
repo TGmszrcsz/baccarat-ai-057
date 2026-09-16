@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：识别质量
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 056 篇 - 百家乐Ai预测分析工具：人工抽查应该怎样覆盖不同情况](https://github.com/TGmszrcsz/baccarat-ai-056) ｜ [下一篇：第 058 篇 - 百家乐Ai预测分析工具：使用识别置信分数前先理解其定义](https://github.com/TGmszrcsz/baccarat-ai-058)
+
+<!-- article-chain:end -->
+
 提示框覆盖结果区域，但采集仍在继续。本篇围绕“页面遮挡与弹窗出现时怎样保留数据边界”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
